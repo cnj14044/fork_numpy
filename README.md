@@ -66,6 +66,7 @@ Writing code isn’t the only way to contribute to NumPy. You can also:
 - translate website content
 - help with outreach and onboard new contributors
 - write grant proposals and help with other fundraising efforts
+- 勝手に追加
 
 For more information about the ways you can contribute to NumPy, visit [our website](https://numpy.org/contribute/). 
 If you’re unsure where to start or how your skills fit in, reach out! You can
